@@ -1,2 +1,2 @@
 # Star-Rating-React-Component
-Star Rating - a simple feature allows users to provide quick feedback with just a click.
+This is a ready-to-use React component written in TypeScript for a star rating feature that allows users to easily provide feedback by selecting a rating with a click.
